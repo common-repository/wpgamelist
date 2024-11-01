@@ -1,0 +1,48 @@
+#wpgamelist-filter-div {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    width: 300px;
+    text-align: right;
+}
+
+#wpgamelist-filter-search-container #wpgamelist-filter-div select{
+    width:300px;
+    margin-bottom: 5px;
+}
+
+#wpgamelist-search-sort-inner-cont{
+    display: inline-block;
+}
+
+#wpgamelist-filter-search-container{
+    text-align: right;
+}
+
+#wpgamelist-search-checkboxes{
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#wpgamelist-search-div {
+    text-align: right;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#wpgamelist-filter-between-year-div p {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+#wpgamelist-filter-between-year-div select {
+    display: inline-block!important;
+    width: 60px!important;
+}
+
+#wpgamelist-to-span{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-style: italic;
+}

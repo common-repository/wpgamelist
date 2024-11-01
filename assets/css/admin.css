@@ -1,0 +1,1773 @@
+.toplevel_page_WPGameList-Options .dashicons-before img {
+    width: 30px!important;
+    margin-right: 2px!important;
+    padding: 2px 0 0!important;
+}
+
+#wpgamelist-addgame-form input[type="checkbox"], #wpgamelist-editgame-form input[type="checkbox"]{
+    margin-left: 5px;
+}
+
+#wpgamelist-addgame-form textarea, #wpgamelist-editgame-form textarea{
+    width: 93%;
+    margin: 5px;
+}
+
+#wpgamelist-addgame-form .wpgamelist-addgame-select-default, .wpgamelist-editgame-select-default{
+    margin-left: auto!important;
+    margin-right: auto!important;
+    display: block;
+}
+
+#wpgamelist-addgame-rating, #wpgamelist-editgame-rating{
+    width: 94%;
+    margin: 5px;
+}
+
+#wpgamelist-addgame-signed-first-table, #wpgamelist-editgame-signed-first-table{
+    width:100%;
+    margin-top:20px;
+    margin-bottom:40px;
+}
+
+#wpgamelist-addgame-form #wpgamelist-addgame-signed-first-table label, #wpgamelist-addgame-page-post-row .wpgamelist-addgame-post-page-checkboxes label, #wpgamelist-editgame-form #wpgamelist-editgame-signed-first-table label, #wpgamelist-editgame-page-post-row .wpgamelist-editgame-post-page-checkboxes label{
+    top: 0px;
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    position:relative;
+}
+
+.wpgamelist-addgame-post-page-checkboxes, .wpgamelist-editgame-post-page-checkboxes{
+    padding-bottom: 20px;
+    text-align:center;
+    position: relative;
+    right: 5px;
+}
+
+#wpgamelist-addgame-page-post-create-label-row, #wpgamelist-editgame-page-post-create-label-row{
+    text-align:center;
+}
+
+#wpgamelist-addgame-form #wpgamelist-addgame-image, #wpgamelist-editgame-form #wpgamelist-editgame-image{
+    width:58%;
+    vertical-align: top;
+    margin-bottom:25px;
+}
+
+#wpgamelist-addgame-form #wpgamelist-addgame-date-finished, 
+#wpgamelist-editgame-form #wpgamelist-editgame-date-finished{
+    position: absolute;
+    width: 155px;
+    opacity:0;
+}
+
+#wpgamelist-admin-addgame-button, #wpgamelist-admin-editgame-button{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 5px;
+    margin-bottom:20px;
+}
+
+#wpgamelist-admin-editgame-button, #wpgamelist-admin-cancel-button{
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom:20px;
+    width:100px;
+}
+
+#wpgamelist-editgame-add-cancel-div {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+#wpgamelist-editgame-add-cancel-div{
+
+}
+
+#game-date-finished-label{
+    display: block;
+    margin-left: 5px;
+    margin-top: 10px;
+    opacity:0;
+}
+
+#wpgamelist-authorize-amazon-container{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    position: relative;
+    text-align: center;
+    bottom: 15px;
+}
+
+#wpgamelist-use-amazon-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#wpgamelist-use-amazon-container table{
+    width:100%;
+}
+
+#wpgamelist-use-amazon-container p{
+    margin: 0;
+    width: 100%;
+}
+
+#wpgamelist-use-amazon-container label{
+    top:0px;
+    margin-left:0px;
+    margin-right:10px;
+}
+
+#wpgamelist-use-amazon-container input{
+    margin-right:0px;
+}
+
+#wpgamelist-authorize-amazon-container table{
+    width:100%;
+    text-align:center;
+}
+
+#wpgamelist-authorize-amazon-container p{
+    margin-bottom:0px;
+    font-style:italic;
+}
+
+#wpgamelist-authorize-amazon-container label{
+    top: 0px;
+    margin-left: 0px;
+}
+
+#wpgamelist-authorize-amazon-container input{
+    top: 0px;
+    margin-right: 0px;
+}
+
+#wpgamelist-addgame-select-library-label, #wpgamelist-editgame-select-library-label{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    font-weight:bold;
+    font-size:14px;
+}
+
+#wpgamelist-color-red-italic{
+    color:red;
+    font-style:italic;
+}
+
+.wpgamelist-color-orange-italic{
+    color:#36CB40;
+    font-style:italic;
+}
+
+.wpgamelist-color-orange-bold{
+    color:#36CB40;
+    font-weight:bold;
+}
+
+#wpgamelist-addgame-upload_image_button, #wpgamelist-editgame-upload_image_button{
+    margin-left: 5px;
+    position: relative;
+    top: -2px;
+}
+
+#wpgamelist-addgame-preview-img, #wpgamelist-editgame-preview-img{
+    width: 50px;
+    position: absolute;
+    top: -28px;
+    right: 15%;
+}
+
+#wpgamelist-addgame-signed-question, #wpgamelist-addgame-signed-td, #wpgamelist-editgame-signed-question, #wpgamelist-editgame-signed-td{
+    position:relative;
+    right:50px;
+}
+
+#wpgamelist-addgame-first-edition-question, #wpgamelist-addgame-firstedition-td, #wpgamelist-editgame-first-edition-question, #wpgamelist-editgame-firstedition-td{
+    position:relative;
+    right:80px;
+}
+
+#wpgamelist-addgame-rating-img, #wpgamelist-editgame-rating-img{
+    width: 65px;
+    position: relative;
+    top: 4px;
+    right: 2px;
+}
+
+#wpgamelist-addgame-form #wpgamelist-addgame-sale-author-link, #wpgamelist-editgame-form #wpgamelist-editgame-sale-author-link, #wpgamelist-editgame-form #wpgamelist-editgame-amazon-buy-link, #wpgamelist-editgame-form #wpgamelist-editgame-google-play-buy-link, #wpgamelist-editgame-form #wpgamelist-editgame-games-a-million-buy-link{
+    width: 93%;
+}
+
+.wpgamelist-addgame-page-post-label, .wpgamelist-editgame-page-post-label{
+    display:inline-block;
+    text-align:center;
+    padding-top:10px;
+}
+
+.wpgamelist-spinner{
+    opacity: 0;
+    height: 20px;
+    width: 20px;
+    margin: 10px auto;
+    -webkit-animation: rotation .6s infinite linear;
+    -moz-animation: rotation .6s infinite linear;
+    -o-animation: rotation .6s infinite linear;
+    animation: rotation .6s infinite linear;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    border-top: 1px solid #36CB40;
+    border-radius: 100%;
+    position: relative;
+}
+
+.wpgamelist-spinner-pending{
+    opacity: 0; 
+    height: 15px;
+    width: 15px;
+    margin: 10px auto;
+    -webkit-animation: rotation .6s infinite linear;
+    -moz-animation: rotation .6s infinite linear;
+    -o-animation: rotation .6s infinite linear;
+    animation: rotation .6s infinite linear;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    border-top: 1px solid #36CB40;
+    border-radius: 100%;
+    bottom: 30px;
+    position: relative;
+}
+
+#wpgamelist-addgame-date-finished-td, #wpgamelist-editgame-date-finished-td{
+    position:relative;
+}
+
+.wpgamelist-success{
+    cursor:pointer;
+}
+
+#wpgamelist-addgame-success-div, #wpgamelist-editgame-success-div, #wpgamelist-addstylepak-success-div, #wpgamelist-addbackup-success-div, #wpgamelist-addtemplate-success-div{
+    text-align:center;
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+    line-height:1.5;
+}
+
+#wpgamelist-addbackup-success-div{
+    margin-bottom:40px;
+}
+
+#wpgamelist-addstylepak-success-div, #wpgamelist-addtemplate-success-div{
+    line-height: 1.5;
+    margin-bottom:30px;
+}
+
+#wpgamelist-apply-library-backup-csv, #wpgamelist-apply-library-stylepak, #wpgamelist-apply-library-backup, #wpgamelist-apply-library-restore{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    bottom: 20px;
+}
+
+#wpgamelist-apply-library-backup-csv{
+    display:none;
+}
+
+#wpgamelist-apply-post-template, #wpgamelist-apply-page-template{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: 20px;
+    margin-bottom:40px;
+}
+
+.wpgamelist-show-game-colorbox{
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+.wpgamelist-success-page-post{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+    color: #36CB40;
+    position: absolute;
+    top: 135px;
+}
+
+#wpgamelist-success-view-page{
+    top:155px;
+}
+
+.wpgamelist-success-page-post{
+    opacity:0;
+}
+
+#wpgamelist-addgame-success-shortcode, #wpgamelist-editgame-success-shortcode{
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+#wpgamelist-add-game-success-span{
+    font-style:italic;
+    color:#36CB40;
+    font-size: 16px;
+}
+
+#wpgamelist-smile-icon-1{
+    width: 15px;
+    position: relative;
+    top: 3px;
+    left:5px;
+}
+
+#wpgamelist-addgame-success-thanks, #wpgamelist-editgame-success-thanks{
+    margin-top:34px;
+    line-height:1.5;
+    margin-bottom:50px;
+}
+
+#wpgamelist-addstylepak-success-thanks{
+    margin-top:10px;
+    line-height:1.5;
+}
+
+#wpgamelist-addgame-success-review-link, #wpgamelist-editgame-success-review-link{
+    color:#36CB40;
+}
+
+#wpgamelist-addgame-container p, #wpgamelist-editgame-container p{
+    text-align:center;
+}
+
+.wpgamelist-jre-cover-shortcode-class, .wpgamelist-jre-cover-shortcode-class-orange{
+    font-weight: bold;
+}
+
+.wpgamelist-jre-cover-shortcode-class-orange{
+    color: #36CB40;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+#wpgamelist-custom-libraries-container a{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+#wpgamelist-dynamic-input-library{
+    width:100%;
+}
+
+#wpgamelist-use-shortcodes-p{
+    text-align:center;
+    font-size:16px;
+}
+
+.wpgamelist-margin-right-td{
+    margin-right:35px;
+    display:block;
+}
+
+#wpgamelist-jre-backend-options-table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#wpgamelist-library-display-p{
+    text-align:center;
+}
+
+#wpgamelist-library-settings-select{
+    margin-left: auto!important;
+    margin-right: auto!important;
+    display: block;
+}
+
+#wpgamelist-enable-purchase-div {
+    font-style: italic;
+    border: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    text-align:center;
+}
+
+#wpgamelist-enable-purchase-p {
+    border: none;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    position: relative;
+    bottom: 7px;
+    text-align: justify;
+}
+
+#wpgamelist-enable-purchase-actual-div {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    position: relative;
+    bottom: 10px;
+    text-align:center;
+}
+
+#wpgamelist-stylepak-demo-links {
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    text-align:center;
+    margin-bottom:20px;
+    margin-top:50px;
+    line-height:2;
+}
+
+#wpgamelist-library-options-lower-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wpgamelist-save-backend, #wpgamelist-save-post-backend, #wpgamelist-save-page-backend{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.wpgamelist-library-display-question{
+    top: 2px;
+    margin-right: 3px;
+    width: 12px;
+    position: relative;
+}
+
+.wpgamelist-edit-game-title, .wpgamelist-edit-game-author{
+    margin-top:0px;
+    display:inline-block;
+}
+
+.wpgamelist-edit-game-indiv-div-class{
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+}
+
+.wpgamelist-edit-game-author{
+    width: 70%;
+    vertical-align: text-top;
+}
+
+.wpgamelist-edit-game-indiv-div-class{
+    border: 1px solid #e5e5e5;
+    padding: 10px;
+    margin-bottom:10px;
+    display:block;
+    position:relative;
+    min-height:100px;
+    width:97%;
+}
+
+.wpgamelist-search-indiv-container{
+    display:block;
+    position:relative;
+    min-height:100px;
+    width:97%;
+}
+
+.wpgamelist-edit-title-div{
+    width:75%;
+}
+
+.wpgamelist-edit-actions-div{
+    width:20%;
+    text-align: center;
+}
+
+.wpgamelist-edit-actions-div div{
+    margin:5px;
+    background-color:#36CB40;
+    padding:7px;
+    padding-left: 0;
+    margin:5px;
+    border-radius:5px;
+    color:white;
+    position:relative;
+    cursor:pointer;
+}
+
+.wpgamelist-game-icon-author{
+    width: 17px;
+    display: inline-block;
+    margin-left: 8px;
+    position: relative;
+    top: 5px;
+    margin-right: 3px;
+
+}
+
+.wpgamelist-edit-game-icon-button{
+    position: absolute;
+    right: 30px;
+    bottom: 6px;
+    width: 16px;
+    display: inline-block;
+
+}
+
+.wpgamelist-edit-actions-div .wpgamelist-edit-actions-delete-button{
+    padding-right:20px;
+}
+
+.wpgamelist-edit-game-title{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-variant: small-caps;
+    width:75%;
+}
+
+.wpgamelist-edit-actions-div .wpgamelist-edit-actions-edit-button{
+    margin-bottom:10px;
+    padding-right:15px;
+}
+
+.wpgamelist-edit-title-div, .wpgamelist-edit-actions-div{
+    display:inline-block;
+}
+
+.wpgamelist-edit-form-div{
+    opacity:0;
+    margin-top:50px;
+}
+
+.wpgamelist-edit-form-div #wpgamelist-editgame-signed-first-table{
+    margin-bottom:0px;
+}
+
+#wpgamelist-edit-games-lib-div, #wpgamelist-edit-games-search-div{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+
+#wpgamelist-edit-games-search-div label{
+    margin-right: 5px;
+}
+
+#wpgamelist-edit-games-search-div input[type="checkbox"]{
+    margin-right: 15px;
+}
+
+#wpgamelist-edit-game-search-input{
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+#wpgamelist-edit_games-pagination-div{
+  
+}
+
+.wpgamelist-edit-game-icon-back{
+    -ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
+
+#wpgamelist-edit_games-pagination-div div{
+    display: inline-block;
+    background-color: #36CB40;
+    cursor: pointer;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+    color: white;
+    text-align:center;
+    vertical-align: top;
+    width: 180px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+#wpgamelist-edit-next-100{
+    float:right;
+}
+
+.wpgamelist-edit-game-icon-back, .wpgamelist-edit-game-icon-next{
+    width: 20px;
+    position: relative;
+    top: 6px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.wpgamelist-admin-tp-inner-container{
+    position:relative;
+}
+
+#wpgamelist-spinner-pagination{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    bottom:20px;
+}
+
+#wpgamelist-edit-games-lib-p{
+
+}
+
+#wpgamelist-edit-games-lib-search-div{
+    text-align:center;
+    position:relative;
+    margin-bottom: 30px;
+}
+
+#wpgamelist-spinner-edit-change-lib{
+    position: absolute;
+    top: 100px;
+    left: 0;
+    right: 0;
+
+}
+
+#wpgamelist-spinner-backup, #wpgamelist-spinner-restore-backup{
+    bottom:15px;
+}
+
+#wpgamelist-edit-previous-100{
+    opacity:0.3;
+    pointer-events:none;
+}
+
+#wpgamelist-search-results-info{
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+.wpgamelist-edit-game-cover-img{
+    width: 60px;
+    float: left;
+    margin-right: 20px;
+}
+
+.wpgamelist-edit-actions-div .wpgamelist-edit-game-delete-page-post-div{
+    background-color: transparent;
+    color: black;
+    text-align: left;
+    position: absolute;
+    right: 42px;
+}
+
+.wpgamelist-edit-game-delete-page-post-div label{
+    margin-right: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.wpgamelist-edit-game-delete-page-post-div input{
+    position: relative;
+    bottom: 4px;
+}
+
+.wpgamelist-delete-result{
+    text-align:center;
+    line-height:1.5;
+}
+
+#wpgamelist-display-opt-check-div{
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+}
+
+#wpgamelist-api-settings-container p{
+    text-align: center;  
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wpgamelist-api-settings-container label{
+    margin-right:5px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+#wpgamelist-api-settings-container table{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align:center;
+}
+
+#wpgamelist-api-settings-container button{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+#wpgamelist-api-settings-container input{
+    margin-right:5px;
+}
+
+#wpgamelist-buy-library-stylepaks-div{
+    text-align:center;
+    display:inline-block;
+}
+
+#wpgamelist-stylepak-buy-link img{
+    width:170px;
+    border-radius:5px;
+}
+
+#wpgamelist-stylepak-advert-cont{
+    text-align: center;
+}
+
+#wpgamelist-upload-stylepaks-div{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#wpgamelist-select-library-stylepak, #wpgamelist-select-post-template, #wpgamelist-select-page-template{
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 200px;
+    display: block;
+    margin-top: 10px!important;
+}
+
+#wpgamelist-backup-csv-select-library, .wpgamelist-stylepak-select-default, .wpgamelist-backup-select-default, #wpgamelist-select-library-backup, #wpgamelist-select-actual-backup{
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 150px;
+    display: block;
+    margin-top: 10px!important;
+    margin-bottom: 40px!important;
+}
+
+#wpgamelist-select-library-backup{
+    width:215px;
+    margin-bottom:10px;
+}
+
+#wpgamelist-stylepak-select-library-label, #wpgamelist-backup-select-library-label{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#wpgamelist-stylepak-select-stylepak-label{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#wpgamelist-stylepak-heading-left{
+    margin-right:20px;
+}
+
+.wpgamelist-stylepak-table-heading{
+    margin-bottom: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#wpgamelist-stylepak-heading-row{
+    text-decoration-line: underline;
+    text-decoration-color: #36CB40;
+    font-variant: small-caps;
+    text-underline-position: under;
+    border: solid 1px black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#wpgamelist-stylepak-table-container table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border: solid 1px #36CB40;
+    padding: 5px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(240, 90, 26, 0.05);
+}
+
+.wpgamelist-stylepak-heading-img{
+    width:30px;
+}
+
+.wpgamelist-stylepak-table-num{
+    font-weight: bold;
+    text-align: right;
+    position: absolute;
+    left: 8px;
+    width: 32px;
+}
+
+.wpgamelist-stylepaks-col1{
+    position: relative;
+    text-align: left;
+    padding-left: 45px;
+}
+
+#wpgamelist-stylepak-table-container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.wpgamelist-stylepak-table-lib{
+
+}
+
+.wpgamelist-stylepak-table-lib, .wpgamelist-stylepak-table-stylepak{
+    display: inline-block;
+}
+
+#wpgamelist-stylepak-demo-links a{
+    margin-left: 5px;
+    margin-right:5px;
+    width: 140px;
+    display: inline-block;
+}
+
+.wpgamelist-jre-backend-localization-table{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.wpgamelist-jre-backend-localization-table td {
+    padding: 5px;
+}
+
+#wpgamelist-save-localization{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#wpgamelist-add-new-library-stylepak-button{
+    z-index:9;
+}
+
+
+#wpgamelist-bulk-edit-div{
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+    height: 60px;
+    overflow: hidden;
+    margin-bottom:20px;
+}
+
+#wpgamelist-bulk-edit-mode-on-button{
+    margin-bottom: 40px;
+    position: relative;
+    top: 31px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.wpgamelist-edit-img-author-div{
+    display: inline-block;
+    width: 90%;
+}
+
+.wpgamelist-bulk-delete-checkbox-div{
+    margin-bottom:20px;
+    display:none;
+}
+
+.wpgamelist-bulk-delete-checkbox-div label{
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+#wpgamelist-bulk-edit-mode-delete-checked{
+
+}
+
+#wpgamelist-bulk-edit-mode-on-div button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+
+/*  SECTIONS  */
+.section {
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+    display: block;
+    float:left;
+    margin: 1% 0 1% 3.6%;
+}
+.col:first-child { margin-left: 2%; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+/*  GRID OF THREE  */
+.span_3_of_3 { width: 100%; }
+.span_2_of_3 { width: 66.13%; }
+.span_1_of_3 { width: 30.26%; }
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+    .col {  margin: 1% 0 1% 0%; }
+    .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+}
+
+.wpgamelist-home-extension-excerpt{
+    margin-bottom:0;
+}
+.section li{
+    list-style:none;
+    display:flex;
+    margin:4px;
+}
+
+.section li:before{
+   content: '';
+    display: inline-block;
+    height: 17px;
+    width: 17px;
+    margin-right: 5px;
+    position: relative;
+    top: 2px;
+    background-image: url(http://wpgamelist.com/wp-content/plugins/wpgamelist/assets/img/icons/open-game.svg);
+}
+
+.wpgamelist-home-title-span{
+    text-align: center;
+    width: 100%;
+    display: block;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.wpgamelist-home-cta-button:hover{
+    color:#36CB40;
+    background-color:white;
+    border: 1px solid #E7E8E7;
+}
+
+.wpgamelist-home-cta-button{
+    position: absolute;
+    bottom: 25px;
+    font-size: 18px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #428bca;
+    border: solid 1px #357ebd;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#wpgamelist-extension-page-ext-div-1{
+    background-color: #EC422E;
+}
+
+#wpgamelist-extension-page-ext-div-2{
+    background-color: #4E76B6;
+}
+
+#wpgamelist-extension-page-ext-div-3{
+    background-color: #13921D;
+}
+
+#wpgamelist-extension-page-ext-div-4{
+    background-color: #912882;
+}
+
+#wpgamelist-extension-page-ext-div-5{
+    background-color:#FD9828;
+}
+
+#wpgamelist-extension-page-ext-div-6{
+    background-color:#36CB40;
+}
+
+#wpgamelist-extension-page-ext-div-7{
+    background-color:#EF1843;
+}
+
+#wpgamelist-extension-page-ext-div-8{
+    background-color:#12CACA;
+}
+
+#wpgamelist-extension-page-ext-div-9{
+    background-color:#3E7982;
+}
+
+#wpgamelist-extension-page-ext-div-10{
+    background-color:#0daa16;
+}
+
+#wpgamelist-extension-page-ext-div-11{
+    background-color:#FDD442;
+}
+
+#wpgamelist-extension-page-ext-div-12{
+    background-color:#246AB5;
+}
+
+#wpgamelist-extension-page-ext-div-13{
+    background-color:#F06740;
+}
+
+#wpgamelist-extension-page-ext-div-14{
+    background-color:#C89F2F;
+}
+
+#wpgamelist-extension-page-ext-div-15{
+    background-color:#3E7982;
+}
+
+.wpgamelist-extension-page-ext-div{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    height:175px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wpgamelist-extension-p, .wpgamelist-extension-p-bundle-ext{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    color: white;
+    margin: 0;
+    margin-top: 28px;
+    font-variant: small-caps;
+    line-height:1.1;
+}
+
+.wpgamelist-extension-p-bundle-ext{
+    position:relative;
+    top:8px;
+    font-size:25px;
+}
+
+.wpgamelist-top-line-span{
+    position: absolute;
+    width: 90%;
+
+    background-color: #E7E8E7;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    top: 320px;
+}
+
+.wpgamelist-in-ext-desc-a{
+    color:#4F97CE;
+}
+
+.wpgamelist-to-download-page{
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size:12px;
+}
+
+.wpgamelist-extension-icon-img{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+}
+
+.wpgamelist-extension-title{
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-style: italic;
+    text-align:center;
+    display:none;
+}
+
+.wpgamelist-extension-img{
+    border-radius:5px;
+    margin-bottom:10px;
+    width: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: 25px;
+}
+
+.wpgamelist-extension-excerpt{
+    margin-bottom: 90px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.wpgamelist-excerpt-span, .wpgamelist-excerpt-span-home{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    bottom: 20px;
+    font-size: 15px;
+    height:60px;
+    font-style:italic;
+}
+
+/*  GRID OF TWO  */
+.span_2_of_2 {
+    width: 100%;
+}
+.span_1_of_2 {
+    width: 46%;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    height:355px;
+    position:relative;
+    text-align:center;
+    position:relative;
+}
+
+.span_1_of_2 ul{
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    display: inline-block;
+    right: 0;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+    .col { 
+        margin: 1% 0 1% 0%;
+    }
+}
+
+.wpgamelist-extensions-purchase-button-link a:hover{
+    background-color:#36CB40
+}
+
+.wpgamelist-extensions-purchase-button-link a{
+    position: absolute;
+    bottom: 25px;
+    left: 0;
+    right: 0;
+    background-color: #4F97CE;
+    width: 185px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+
+}
+
+#wpgamelist-extensions-page-img-link{
+    text-decoration:none;
+}
+
+.wpgamelist-extension-img-bundle-mult {
+    width: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: relative;
+    top: 20px;
+}
+
+.wpgamelist-gameswapper-details-div span{
+    margin-bottom: 7px;
+    display: inline-block;
+}
+
+.wpgamelist-gameswapper-details-div button{
+    margin-bottom:40px;
+}
+
+.wpgamelist-gameswapper-details-div{
+    text-align:center;
+    overflow: hidden;
+}
+
+.wpgamelist-gameswapper-details-titles{
+    font-weight: bold;
+    font-size:15px;
+    font-style: italic;
+}
+
+.wpgamelist-gameswapper-details-line{
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+    width: 30%;
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+.wpgamelist-gameswapper-details-img{
+    width: 18px;
+    position: relative;
+    right: 4px;
+    top: 3px;
+}
+
+.wpgamelist-gameswapper-checkin-img{
+    width: 15px;
+    position: relative;
+    top: 4px;
+}
+
+.wpgamelist-gameswapper-checkin{
+    background-color: #36CB40;
+    color: white;
+    width: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    font-size: 11px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.wpgamelist-gameswapper-approve-request, .wpgamelist-gameswapper-deny-request{
+    background-color: #36CB40;
+    color: white;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    font-size: 11px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.wpgamelist-gameswapper-deny-waitlist-request{
+    background-color: #36CB40;
+    color: white;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    font-size: 11px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+
+.wpgamelist-edit-game-indiv-div-class .wpgamelist-gameswapper-show-details-button{
+    padding-right: 19px;
+}
+
+.wpgamelist-gameswapper-details-cancel{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    text-align: center;
+    margin-top: 60px;
+    border: solid 1px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.wpgamelist-gameswapper-pending-success-results{
+    position: relative;
+    bottom: 45px;
+}
+
+@media only screen and (max-width: 700px) {
+    .span_2_of_2, .span_1_of_2 { 
+        width: 100%; 
+        margin-left: 0px!important;
+    }
+}
+
+.wpgamelist-jre-cover-shortcode-class-sub-ul{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#wpgamelist-notice-holder{
+    line-height:1.6;
+}
+
+#wpgamelist-my-notice-dismiss-forever{
+    background-color: #36CB40;
+    color: white;
+    width: 100px;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#wpgamelist-cancel-reorder-button{
+    position: relative;
+    bottom: 170px;
+    opacity: 0;
+    z-index:-9;
+}
+
+#wpgamelist-reorder-button{
+    position: relative;
+    bottom: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.wpgamelist_delete_custom_lib, #wpgamelist-dynamic-shortcode-button{
+    width:160px;
+    margin-left: 10px;
+}
+
+#wpgamelist-facebook-link-div{
+    text-align: center;
+}
+
+#wpgamelist-editgame-form #wpgamelist-editgame-bn-link, #wpgamelist-editgame-form #wpgamelist-editgame-itunes-link, #wpgamelist-editgame-form #wpgamelist-editgame-kobo-link {
+    width: 161%;
+}
+
+
+
+
+#wpgamelist-modal-title{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    bottom: 12px;
+    left: 6px;
+    margin-bottom: 0;
+}
+
+#wpgamelist-modal-reason-div div{
+    margin-top: 5px;
+}
+
+#wpgamelist-modal-reason-div label{
+
+}
+
+#wpgamelist-modal-reason-div{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#jre-domain-modal-button-div{
+    display:inline-block;
+}
+
+#wpgamelist-suggested-feature-div{
+    height: 0px;
+    overflow: hidden;
+    margin: 0px!important;
+    position:relative;
+}
+
+#wpgamelist-suggested-feature-div textarea{
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+#wpgamelist-suggested-feature-div label{
+    text-align: center;
+    display: block;
+    line-height: 1.4;
+}
+
+
+    
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 999; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+#wpgamelist-modal-desc{
+    max-width:500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wpgamelist-modal-email-div{
+    margin-top: 40px;
+}
+
+#wpgamelist-modal-textarea{
+    width: 100%;
+    margin-top: 10px;
+}
+
+#wpgamelist-modal-close{
+    margin-top: 30px;
+    font-size: 13px;
+    font-style: italic;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #F5F4F5;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wpgamelist-modal-submit{
+    background-color: #36CB40;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    color: white;
+    padding: 10px;
+    margin-top: 35px;
+    box-shadow: inset 0 -3px 0 rgba(0,0,0,.1);
+    border-radius: 3px;
+    cursor:pointer;
+}
+
+#wpgamelist-modal-submit:hover{
+    box-shadow: none;
+}
+
+#wpgamelist-modal-email-div label{
+    display: block;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+    text-align:center;
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor:pointer;
+    display:none;
+}
+
+#wpgamelist-add-game-search-div{
+    text-align:center;
+    margin-top:30px;
+    margin-bottom:80px;
+}
+
+#wpgamelist-add-game-search-div input{
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#wpgamelist-add-game-search-title{
+    font-weight:bold;
+}
+
+#wpgamelist-addgame-container p, .wpgamelist-stylepak-page-center{
+    max-width:600px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+
+
+.wpgamelist-add-game-search-row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  opacity:0;
+}
+
+/* Create four equal columns that sits next to each other */
+.wpgamelist-add-game-search-column {
+    flex: 18%;
+    padding-bottom: 15px;
+    position: relative;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    text-align: center;
+    border: solid 1px #36CB40;
+    margin-left: 5px;
+    margin-right: 5px;
+    z-index: 9;
+    cursor: pointer;
+}
+
+.wpgamelist-add-game-search-column img {
+      margin-top: 8px;
+      vertical-align: middle;
+      width:60%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .wpgamelist-add-game-search-column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .wpgamelist-add-game-search-column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+.wpgamelist-add-game-search-title{
+    bottom: 5px;
+    left:0;
+    right:0;
+    z-index:-1;
+    pointer-events:none;
+}
+
+.wpgamelist-add-game-search-column:hover .wpgamelist-add-game-cover-image, .wpgamelist-add-game-search-column:hover .wpgamelist-add-game-search-title{
+    opacity:0.1;
+}
+
+.wpgamelist-add-game-search-column:hover .wpgamelist-add-game-plus-div{
+    opacity:1;
+    z-index:-1;
+}
+
+.wpgamelist-add-game-search-column:hover{
+    background-color: #36CB40;
+    color: white;
+}
+
+.wpgamelist-add-game-plus-div{
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    cursor: pointer;
+    opacity: 0;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 2;
+}
+
+.wpgamelist-add-game-plus-icon{
+    width:30px!important;
+}
+
+.wpgamelist-add-game-form-entry{
+    display: inline-block;
+    width: 200px;
+}
+
+.wpgamelist-add-game-form-entry label{
+    font-weight: bold;
+    margin-bottom: 3px;
+    display: inline-block;
+}
+
+.wpgamelist-add-game-text-input, .wpgamelist-add-game-date-input, .wpgamelist-add-game-select-input{
+    width:185px;
+}
+
+.wpgamelist-add-game-form-row{
+    min-width:620px;
+}
+
+#wpgamelist-add-game-select-input-6{
+    position:relative;
+    bottom:30px;
+}
+
+#wpgamelist-add-game-form-div{
+    text-align:center;
+}
+
+#wpgamelist-add-game-bottom-instruction-div{
+    margin-bottom: 5px;
+    margin-top: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity:0;
+}
+
+#wpgamelist-add-game-text-input-hidden{
+    display:none;
+}
+
+#wpgamelist-affiliate-container p{
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wpgamelist-add-game-bottom-instruct-arrow{
+    position:relative;
+    width:20px;
+    margin-top:10px;
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1s;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 1s;
+    transition-property: transform;
+    transition-duration: 1s;
+    -webkit-animation-name: rotate; 
+    -webkit-animation-duration: 1s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-name: rotate; 
+    -moz-animation-duration: 1s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    animation-name: rotate; 
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+#wpgamelist-backup-settings-container p{
+    max-width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+@-webkit-keyframes rotate {
+    0%, 100% {
+        bottom: -5px;
+    }
+    50% {
+        bottom: 5px;
+    }
+}
+
+@-moz-keyframes rotate {
+    0%, 100% {
+        bottom: -5px;
+    }
+    50% {
+        bottom: 5px;
+    }
+}
+
+@keyframes rotate {
+    0%, 100% {
+        bottom: -5px;
+    }
+    50% {
+        bottom: 5px;
+    }
+}

@@ -1,0 +1,319 @@
+.wpgamelist-top-container html, .wpgamelist-top-container body, .wpgamelist-top-container div, .wpgamelist-top-container span, .wpgamelist-top-container applet, .wpgamelist-top-container object, .wpgamelist-top-container iframe, .wpgamelist-top-container
+h1, .wpgamelist-top-container h2, .wpgamelist-top-container h3, .wpgamelist-top-container h4, .wpgamelist-top-container h5, .wpgamelist-top-container h6, .wpgamelist-top-container p, .wpgamelist-top-container blockquote, .wpgamelist-top-container pre, .wpgamelist-top-container
+a, .wpgamelist-top-container abbr, .wpgamelist-top-container acronym, .wpgamelist-top-container address, .wpgamelist-top-container big, .wpgamelist-top-container cite, .wpgamelist-top-container code, .wpgamelist-top-container
+del, .wpgamelist-top-container dfn, .wpgamelist-top-container em, .wpgamelist-top-container img, .wpgamelist-top-container ins, .wpgamelist-top-container kbd, .wpgamelist-top-container q, .wpgamelist-top-container s, .wpgamelist-top-container samp, .wpgamelist-top-container
+small, .wpgamelist-top-container strike, .wpgamelist-top-container strong, .wpgamelist-top-container sub, .wpgamelist-top-container sup, .wpgamelist-top-container tt, .wpgamelist-top-container var, .wpgamelist-top-container
+b, .wpgamelist-top-container u, .wpgamelist-top-container i, .wpgamelist-top-container center, .wpgamelist-top-container
+dl, .wpgamelist-top-container dt, .wpgamelist-top-container dd, .wpgamelist-top-container ol, .wpgamelist-top-container ul, .wpgamelist-top-container li, .wpgamelist-top-container
+fieldset, .wpgamelist-top-container form, .wpgamelist-top-container label, .wpgamelist-top-container legend, .wpgamelist-top-container
+table, .wpgamelist-top-container caption, .wpgamelist-top-container tbody, .wpgamelist-top-container tfoot, .wpgamelist-top-container thead, .wpgamelist-top-container tr, .wpgamelist-top-container th, .wpgamelist-top-container td, .wpgamelist-top-container
+article, .wpgamelist-top-container aside, .wpgamelist-top-container canvas, .wpgamelist-top-container details, .wpgamelist-top-container embed, .wpgamelist-top-container 
+figure, .wpgamelist-top-container figcaption, .wpgamelist-top-container footer, .wpgamelist-top-container header, .wpgamelist-top-container hgroup, .wpgamelist-top-container 
+menu, .wpgamelist-top-container nav, .wpgamelist-top-container output, .wpgamelist-top-container ruby, .wpgamelist-top-container section, .wpgamelist-top-container summary, .wpgamelist-top-container
+time, .wpgamelist-top-container mark, .wpgamelist-top-container audio, .wpgamelist-top-container video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+.wpgamelist-top-container article, .wpgamelist-top-container aside, .wpgamelist-top-container details, .wpgamelist-top-container figcaption, .wpgamelist-top-container figure, .wpgamelist-top-container 
+footer, .wpgamelist-top-container header, .wpgamelist-top-container hgroup, .wpgamelist-top-container menu, .wpgamelist-top-container nav, .wpgamelist-top-container section {
+    display: block;
+}
+.wpgamelist-top-container body {
+    line-height: 1;
+}
+.wpgamelist-top-container ol, .wpgamelist-top-container ul {
+    list-style: none;
+}
+.wpgamelist-top-container blockquote, .wpgamelist-top-container q {
+    quotes: none;
+}
+.wpgamelist-top-container blockquote:before, .wpgamelist-top-container blockquote:after, .wpgamelist-top-container
+q:before, .wpgamelist-top-container q:after {
+    content: '';
+    content: none;
+}
+.wpgamelist-top-container table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#wpgamelist-sort-search-div{
+    width: 300px;
+    margin-left: auto;
+    text-align:right;
+    display: inline-block;
+}
+
+.wpgamelist_stats_tdiv p{
+    display: inline-block;
+    border-left: 1px;
+    border-right: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 12px;
+    border-color: #e1e1e1;
+}
+
+#wpgamelist-search-div{
+    text-align:right;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#wpgamelist-search-checkboxes{
+    margin-bottom: 5px;
+}
+
+#wpgamelist-search-checkboxes input[type="checkbox"]{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+#wpgamelist-search-text{
+    margin-bottom:5px;
+    padding:5px;
+}
+
+.wpgamelist-table-for-app{
+    display:none;
+}
+
+.wpgamelist-top-container .wpgamelist_stats_tdiv{
+    border-bottom: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 5px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+    border-top: 1px;
+    border-style: solid;
+    margin-bottom: 15px;
+    text-align: center;
+    border-color:#e1e1e1;
+}
+
+.wpgamelist_top_container p, .wpgamelist_top_container a {
+    font-size: 13px;
+}
+
+#wpgamelist-quote-actual{
+    font-style:italic;
+}
+
+#wpgamelist-attribution-actual{
+    font-weight:bold;
+}
+
+.wpgamelist-ui-quote-area-div .wpgamelist-ui-quote-area-p{
+    text-align:center;
+    margin-bottom:25px;
+}
+
+#wpgamelist_cover_image {
+    padding: 0;
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    opacity: 0;
+    z-index: 1;
+    border: none;
+    background-color: transparent;
+}
+
+.wpgamelist_inner_main_display_div {
+    box-shadow: 0px 0px 5px #888;
+    height: 100%;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding-left: 5px!important;
+    padding-right: 5px!important;
+}
+
+.wpgamelist-hidden-isbn1{
+    display:none;
+}
+
+#wpgamelist_main_display_div{
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#wpgamelist_main_display_div .wpgamelist_entry_div {
+    display: inline-block;
+    box-shadow: 0px 0px 30px #888888;
+    border-collapse: separate;
+    background-color: white;
+    background-clip: padding-box;
+    border-width: 30px;
+    border-color: transparent;
+    width: 140px;
+    height: 340px;
+    padding: 10px;
+    position: relative;
+    vertical-align: top;
+}
+
+.hidden_id_title{
+    display:none;
+}
+
+.wpgamelist_entry_div .wpgamelist_inner_main_display_div p{
+    z-index:999;
+    display: block;
+    left: 0;
+    right: 0;
+    font-size:15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    position: absolute;
+    text-align: center;
+    bottom: 75px;
+    display: -webkit-box;
+    max-width: 400px;
+    height: 45px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    line-height: 1.4;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#wpgamelist_saved_title_link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#wpgamelist_cover_image:hover {
+    cursor: pointer;
+    box-shadow: 9px 16px 20px #888888;
+}
+
+#wpgamelist-pagination-div{
+    text-align: center;
+    margin-top:20px;
+}
+
+.wpgamelist-top-container .wpgamelist-pagination-page-div{
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: solid;
+    box-shadow: 0px 0px 8px #888;
+    border-color: transparent;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#wpgamelist-select-sort-div{
+    
+}
+
+.wpgamelist_inner_main_display_div .wpgamelist-rating-image{
+    width: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    top: 8px;
+}
+
+.wpgamelist-page-content{
+    display:none!important;
+}
+
+
+.wpgamelist-purchase-img, .wpgamelist-purchase-img:hover {
+    text-decoration: none;
+}
+
+.wpgamelist-purchase-img img {
+    width: 43px;
+    text-decoration: none;
+    display:inline-block!important;
+}
+
+.wpgamelist-shortcode-below-link-excerpt{
+    position: relative;
+    bottom: 5px;
+    margin-left: 165px;
+    margin-top:25px;
+    margin-bottom:10px;
+    display: -webkit-box;
+    font-size: 14px;
+    line-height: 2;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width:500px;
+}
+
+.wpgamelist-shortcode-entire-container{
+    width:100%;
+}
+
+.wpgamelist-shortcode-below-link-div{
+
+}
+
+.wpgamelist_jre_game_cover_shortcode_link, .wpgamelist-purchase-img, .wpgamelist-show-game-colorbox{
+    box-shadow:none!important;
+}
+
+@media screen and (max-width: 600px) {
+    .wpgamelist-shortcode-link-holder-media{
+        bottom:-60px!important;
+        margin-left:0px!important;
+    }
+
+    .wpgamelist-shortcode-below-link-excerpt{
+        margin-left: 20px!important;
+        margin: 20px!important;
+        text-align: center!important;
+        max-width:initial!important;
+    }
+
+    .wpgamelist_jre_game_cover_shortcode_link{
+        float:none!important;
+        display: block;
+        text-align: center!important;
+    }
+
+    .wpgamelist-shortcode-link-holder-media{
+        position:initial!important;
+        text-align: center!important;
+    }
+
+    .wpgamelist-shortcode-h3{
+        margin:10px!important;
+        text-align: center!important;
+    }
+
+    .wpgamelist-shortcode-entire-container{
+        float:none!important;
+        margin-bottom:115px!important;
+    }
+}
